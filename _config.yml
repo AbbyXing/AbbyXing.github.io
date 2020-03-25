@@ -1,1 +1,43 @@
-theme: jekyll-theme-architect
+title: AbbyXing
+author: Github User
+email: haoruxing@gmail.com
+description: > # this means to ignore newlines until "show_exerpts:"
+  Hi there! I'm Abby, a CS lab rat with research experence in
+  content distribution in mobile networks and recent master
+  degree seeking entry-level web developer position.
+show_excerpts: false # set to true to show excerpts on the homepage
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+tag_permalink_style: pretty
+tag_page_layout: tag_page
+tag_page_dir: tag
+
+# jekyll-dash date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+dash:
+  date_format: "%b %-d, %Y"
+
+  disqus:
+    shortname: AbbyXing-github-io
+
+  # generate social links in footer
+  # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
+  social_links:
+    - url: https://www.linkedin.com/in/haoruxing/
+      icon: linkedin
+      color: cyan
+    - url: https://github.com/AbbyXing
+      icon: github-square
+      color: purple
+
+# Build settings
+theme: jekyll-dash
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-paginate
+ - liquid-md5
+ - jekyll/tagging
