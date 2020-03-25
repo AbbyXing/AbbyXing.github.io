@@ -1,6 +1,6 @@
 title: AbbyXing
 author: Github User
-email: haoruxing@gmail.com
+email: 867791585@qq.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Hi there! I'm Abby, a CS lab rat with research experence in
   content distribution in mobile networks and recent master
@@ -41,6 +41,3 @@ plugins:
  - jekyll-paginate
  - liquid-md5
  - jekyll/tagging
-
- gems:
-  - liquid-md5
