@@ -2,6 +2,9 @@
 layout: default
 ---
 {% include author.html %}
+
+{%- include nav.html -%}
+
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   {% if site.plugins contains "jekyll/tagging" %}

@@ -33,6 +33,9 @@ dash:
     - url: https://github.com/AbbyXing
       icon: github-square
       color: purple
+    - url: https://www.instagram.com/abby_xing/
+      icon: instagram-square
+      color: cyan
 
 # Build settings
 theme: jekyll-dash
