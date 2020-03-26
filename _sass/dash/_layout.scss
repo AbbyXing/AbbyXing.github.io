@@ -54,6 +54,7 @@
 /**
  * Nav Bar
  */
+
 nav {
  font-size: 190%;
  margin-top: 2em;
@@ -80,6 +81,33 @@ nav {
      border-radius: 0.3em;
    }
  }
+
+ /**
+ * Album
+ */
+.album {
+  flex-direction: row;
+  align-items: stretch;
+  box-sizing: border-box;
+  display: flex;
+  flex-shrink: 0;
+  margin: 0 0;
+  padding: 2em 0;
+  position: relative;
+  vertical-align: baseline;
+}
+
+ .album-item {
+    flex: 1 0 0%;
+    display: block;
+    position: relative;
+    width: 100%;
+    margin-right: 25px;
+    align-items: stretch;
+    box-sizing: border-box;
+    flex-direction: column;
+}
+
 
 .site-header {
   margin-bottom: 1em;

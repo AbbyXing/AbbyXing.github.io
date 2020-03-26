@@ -7,7 +7,18 @@ layout: default
 {%- include nav.html -%}
 
 <div class="author-bio">
-  <img src="{{ '/assets/img/my_avatar.png' | relative_url }}" alt="{{page.profile_pic_alt}}" />
-  <p>{{page.short_bio}}</p>
+  <!-- Bio -->
+  	<p>{{page.short_bio}}</p>
+	
+  <!-- Photos -->
+  	<ul class="album">
+  		<li class="album-item"><img src="https://res.cloudinary.com/daxtpgi3q/image/upload/v1585210978/ins_photos/75318261_443219319934875_3696857012082096362_n_gztcbv.jpg"></li>
+        <li class="album-item"><img src="https://res.cloudinary.com/daxtpgi3q/image/upload/v1585210890/ins_photos/75243110_2191459071150807_4132756456756034132_n_wmcqdy.jpg"></li>
+        <li class="album-item"><img src="https://res.cloudinary.com/daxtpgi3q/image/upload/v1585210896/ins_photos/72850662_160227568408031_5701076538678896683_n_w9mwls.jpg"></li>
+        <li class="album-item"><img src="https://res.cloudinary.com/daxtpgi3q/image/upload/v1585210907/ins_photos/59740158_591302108046518_2452235390622441732_n_bppyin.jpg"></li>
+    </ul>
+    <div>
+	{{ content }}
+	</div>
 </div>
-{{ content }}
+
