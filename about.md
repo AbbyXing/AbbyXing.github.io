@@ -39,8 +39,8 @@ Projects
 
 See my Project page.
 
-Skills
-------
+Skills (Familiar With)
+----------------------
 
 Languages
 :   Java, C, C#, Node.js, HTML
@@ -50,3 +50,12 @@ Frameworks
 
 IDEs
 :	Eclipse, VS Code, Unity
+
+Softwares
+:	After Effects, Premiere, 3Ds MAx, Axure RP
+
+Publications
+------------
+
+1. H. Xing and W. Song, "Collaborative Content Distribution in 5G Mobile Networks with Edge Caching," *ICC 2019 - 2019 IEEE International Conference on Communications (ICC)*, Shanghai, China, 2019, pp. 1-6.  
+2. H. Xing and W. Song, "Collaborative Content Distribution With an End-to-End Caching Framework," in *IEEE Access*, vol. 8, pp. 54345-54360, 2020.

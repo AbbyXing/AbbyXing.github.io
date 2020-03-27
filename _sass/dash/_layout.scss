@@ -102,7 +102,7 @@ nav {
     display: block;
     position: relative;
     width: 100%;
-    margin-right: 25px;
+    margin-right: 10px;
     align-items: stretch;
     box-sizing: border-box;
     flex-direction: column;
@@ -167,8 +167,10 @@ nav {
   }
 
   img {
+    display: block;
+    margin: 1em auto;
     border-radius: 0.3em;
-    width: 100%;
+    width: 50%;
   }
 
   ol > li {
