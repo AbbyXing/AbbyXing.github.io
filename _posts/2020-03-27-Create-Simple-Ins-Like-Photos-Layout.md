@@ -33,7 +33,7 @@ We'll be using the ***flexbox*** to layout all photos. ***flexbox*** was a one-d
 The result looks like this:  
 ![flex-nowrap][flex-nowrap]  
 
-If your items are large and can't be alined in one rwo, we use ***flex-wrap: wrap;*** to allow our flex items to wrap onto multiple lines. For example:
+If your items are large and can't be aligned in one row, we use ***flex-wrap: wrap;*** to allow our flex items to wrap onto multiple lines. For example:
 ```html
 <style>
     .box {
