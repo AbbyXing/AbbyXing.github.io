@@ -22,7 +22,7 @@ comments: true
   {{ content }}
 </div>
 
-{% if page.comments %} 
+{% if site.dash.disqus.shortname %}
 <div class="comments">
 {% include disqus.html %}
 </div>
