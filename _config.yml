@@ -1,12 +1,12 @@
 title: AbbyXing
-url: ""
+url: "https://abbyxing.github.io/"
 baseurl: ""
 author: Github User
-email: 867791585@qq.com
+email: haoruxing@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
-  Hi there! I'm Abby, a CS lab rat with research experence in
-  content distribution in mobile networks and recent master
-  degree seeking entry-level web developer position.
+  Hi there! I'm Abby, a new grad with Master of Computer
+  Science degree and research experence, seeking for entry-level
+  web developer position.
 show_excerpts: false # set to true to show excerpts on the homepage
 
 paginate: 5
@@ -22,7 +22,7 @@ dash:
   date_format: "%b %-d, %Y"
 
   disqus:
-    shortname: AbbyXing-github-io
+    shortname: abbyxing-github-page
 
   # generate social links in footer
   # supported colors: green, red, orange, blue, cyan, pink, teal, yellow, indigo, purple
