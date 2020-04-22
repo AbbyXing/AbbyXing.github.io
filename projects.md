@@ -7,7 +7,7 @@ title:  "Projects"
 
 Here are some projects I've worked in the past.
 
-## /Programming
+## /Coding
 
 ### 1.[Collaborative Content Distribution in 5G Mobile Networks with Edge Caching *(Java)*](https://ieeexplore.ieee.org/document/8761491)
 *(published on 2019 IEEE International Conference on Communications, May, 2019)*
@@ -24,6 +24,9 @@ Here are some projects I've worked in the past.
 - Focused on exploiting social-aware device caching and user collaboration for efficient content distribution.
 - Investigated the request offloading problem, which aims to appropriately select the video requests offloaded to energy-efficient D2D communications.
 - Proposed a greedy submodular method that iteratively makes the best offloading decision in each step.
+
+### A World Map Showing COVID-19 Cases *(d3.js)*
+Demo here https://abbyxing.com/covid-glb
 
 
 ## /Interactive Design

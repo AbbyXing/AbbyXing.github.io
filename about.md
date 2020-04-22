@@ -59,4 +59,4 @@ Publications
 
 1. H. Xing and W. Song, "Collaborative Content Distribution in 5G Mobile Networks with Edge Caching," *ICC 2019 - 2019 IEEE International Conference on Communications (ICC)*, Shanghai, China, 2019, pp. 1-6.  
 2. H. Xing and W. Song, "Collaborative Content Distribution With an End-to-End Caching Framework," in *IEEE Access*, vol. 8, pp. 54345-54360, 2020.
-3. W.Song and H.Xing, "Traffic Offloading for Content Distribution Assisted with Device-to-Device Communications", accepted by *IEEE Open Journal of the Communications Society*.
+3. W. Song and H. Xing, "Traffic Offloading for Content Distribution Assisted with Device-to-Device Communications", accepted by *IEEE Open Journal of the Communications Society*.
