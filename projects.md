@@ -25,8 +25,9 @@ Here are some projects I've worked in the past.
 - Investigated the request offloading problem, which aims to appropriately select the video requests offloaded to energy-efficient D2D communications.
 - Proposed a greedy submodular method that iteratively makes the best offloading decision in each step.
 
-### A World Map Showing COVID-19 Cases *(d3.js)*
-Demo here https://abbyxing.com/covid-glb
+### 4.A Data Visualizer Shows COVID-19 Cases *(d3.js)*
+- A data visualizer implemented in D3.js which shows the number of Covid-19 confirmed cases in each country.
+- Demo can be found [here].(https://abbyxing.com/covid-glb)
 
 
 ## /Interactive Design
